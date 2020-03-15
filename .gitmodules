@@ -1,9 +1,9 @@
 [submodule "Fit"]
 	path = Fit
-	url = ../Fit.git
+	url = git@github.com:tcgoetz/Fit.git
 [submodule "utilities"]
 	path = utilities
-	url = ../utilities.git
+	url = git@github.com:tcgoetz/utilities.git
 [submodule "Tcx"]
 	path = Tcx
-	url = ../Tcx.git
+	url = git@github.com:tcgoetz/Tcx.git
